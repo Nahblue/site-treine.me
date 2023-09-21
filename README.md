@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto treine.me" src="" width="80%">
+  <img alt="projeto treine.me" src="https://i.imgur.com/08t5rgW.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de página onde são aplicados os conceitos básicos de HTML e CSS.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://nahblue.github.io/site-treine.me/)
 
 ## :memo: Licença
 
